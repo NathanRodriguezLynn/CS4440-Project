@@ -9,7 +9,7 @@
   - [x] Gavin Chan
   - [x] Darvy Nava
   - [x] Reda Masri
-  - [ ] ...
+  - [ ] Geovanny Montano
   - [ ] ...
 
 ## Final Project Presentations - 12/5
