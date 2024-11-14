@@ -1,27 +1,30 @@
-# CS4440-Project
-Process Synchronization
+# CS4440-Project: Process Synchronization
+  + Make a fast-food burger shop, and ensure orders are completed promptly and correctly
+  + In order to achieve synchronous tasks, we will ensure different order items are completed/started simultaneously
+  + Different dining scenarios will be made to keep things interesting
+  + Threads? - meats down, cook fries, prepare drinks, gather utensils, build burger, package everything, serve (transactions?)
+  + Additional Threads? -> have 2-3 cooks as threads
+  
+## Add your names to confirm you are connected:
+  - [ ] ...
+  - [x] Darvy Nava
+  - [x] Reda Masri
+  - [ ] ...
+  - [ ] ...
 
-Add your names to confirm you are connected:
-- ...
-- Darvy J Nava
-- Reda Masri
-- ...
-- ...
+## Final Project Presentations - 12/5
+  + Group project/presentation will be presented a week before finals. 
+  + 10 Minute Presentations 
+  + Part of the grade for the final will be attending both days even if you're not presenting
+  + If chosen, we will be spending the rest of the remaining class time working in our groups on the project
 
-Final Project Presentations - 12/5
-- Group project/presentation will be presented a week before finals. 
-- 10 Minute Presentations 
-- Part of the grade for the final will be attending both days even if you're not presenting
-- If chosen, we will be spending the rest of the remaining class time working in our groups on the project
-
-[ Week 1 ]
-  Solidify Project Details  
-  Research/Review Topic
-
-[ Week 2 ]
-  Write Psuedo Code and Make Diagrams , Develope Code/ Implement Examples, ETC
-
-[ Week 3 ]
-  Putting all your work together to present
-  It can be a powerpoint poster, etc, since we are going to be working on this in class points will be given for creativity
-  Begin Presentation
+## Roadmap
+  ### *Week 1*
+  - [x] Solidify Project Details  
+  - [x] Research/Review Topic
+  ### *Week 2*
+  - [x] Write pseudocode, make diagrams, develop code, implement examples, etc.
+  ### *Week 3*
+  - [ ] Putting all your work together to present
+  - [ ] It can be a PowerPoint, poster, etc, since we are going to be working on this in class points will be given for creativity
+  - [ ] Begin Presentation
