@@ -10,7 +10,7 @@
   - [x] Darvy Nava
   - [x] Reda Masri
   - [ ] Geovanny Montano
-  - [ ] ...
+  - [ ] Nathan Rodriguez-Lynn
 
 ## Final Project Presentations - 12/5
   + Group project/presentation will be presented a week before finals. 
