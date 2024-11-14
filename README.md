@@ -6,7 +6,7 @@
   + Additional Threads? -> have 2-3 cooks as threads
   
 ## Add your names to confirm you are connected:
-  - [ ] ...
+  - [x] Gavin Chan
   - [x] Darvy Nava
   - [x] Reda Masri
   - [ ] ...
